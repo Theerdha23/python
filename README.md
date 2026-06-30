@@ -28,7 +28,8 @@ It demonstrates how different data types work, how mutable and immutable objects
 
 ---
 
-## 🚀 Example Code
+## 🚀
+Example Code
 ```python
 m = 120
 print(type(m), id(m))
