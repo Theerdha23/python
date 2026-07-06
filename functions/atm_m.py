@@ -26,7 +26,8 @@ def withdraw(amount):
     else:
         print("Please enter a valid amount.")
 
-print("--------------MENU-------------")
+print('-'*10,"MENU",'-'*10)
+
 print("1. Deposit")
 print("2. Withdraw")
 print("3. Check Balance")
