@@ -58,14 +58,14 @@ def calculate_bill(*charges):
     for charge in charges:
         print(charge)
         total += charge
-    print(f'total charges: {total}')
+    print(f'total charges : {total}')
     return total
 def apply_insurance(total,**insurance):
     insurance_a = 0
     for key, value in insurance.items():
-        print(key,':', value)
+        print(key,'         : ', value)
         insurance_a += value
-    print(f'total insurance: {insurance_a}')
+    print(f'total insurance : {insurance_a}')
     total=total-insurance_a
     return total
 
