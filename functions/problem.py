@@ -60,16 +60,27 @@ print('-----------billing detials---------')
 def billing_detials(cus_name,order_type='regular',*items,**addtional_details):
     print(f' cus_name: {cus_name}')
     print(f' order_type: {order_type}')
-    i=1
+    i=0
     for item in items:
+        i += 1
         print(f'{i}.item: {item}')
-        i+=1
+
+    print(f'total items are: {i}')
     for k,v in addtional_details.items():
+        i += 1
         print(f'{i}.{k}: {v}')
-        i+=1
+
 
 billing_detials('theerdha','premium','dosa','idly','upma','hot coffe',address='near kphb,roadno:2',
                 payment_status='paid through UPI',delivery_instructions='deliver the items on time',discount='10%')
+
+
+
+
+
+
+
+
 
 
 
