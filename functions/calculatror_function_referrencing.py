@@ -33,3 +33,4 @@ def twice(func,a):
 a=5
 print(twice(square,a))
 
+

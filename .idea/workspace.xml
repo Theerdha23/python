@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fafa32a0-ea11-4276-8773-ac0d57a8436d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/calculatror_function_referrencing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamda/l_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/PPP.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/PPP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/calculatror_function_referrencing.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/calculatror_function_referrencing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,61 +28,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000002187" />
-      <entry key="S10" value="1.0000006867136968" />
-      <entry key="S30" value="1.0211428713474007" />
-      <entry key="S60" value="1.4265770802961295" />
-      <entry key="M2" value="3.852826747838108" />
-      <entry key="M5" value="13.85848660589565" />
-      <entry key="M10" value="27.58799101246763" />
-      <entry key="M15" value="41.21803371229188" />
-      <entry key="M30" value="87.99335267118408" />
-      <entry key="H1" value="189.19216997209122" />
-      <entry key="H2" value="374.0259638229324" />
-      <entry key="H4" value="602.2914184558733" />
-      <entry key="D1" value="971.8490005591465" />
-      <entry key="W1" value="1062.8093473896083" />
+      <entry key="MS100" value="1.0000000000000382" />
+      <entry key="MS500" value="1.0020750315600857" />
+      <entry key="S2" value="1.2525825211857313" />
+      <entry key="S5" value="1.9283441801284327" />
+      <entry key="S10" value="3.001846597611278" />
+      <entry key="S30" value="7.596079666011735" />
+      <entry key="S60" value="13.152444535564811" />
+      <entry key="M2" value="19.837797825807833" />
+      <entry key="M5" value="35.11001409209888" />
+      <entry key="M10" value="63.05369007788302" />
+      <entry key="M15" value="90.99809841284832" />
+      <entry key="M30" value="163.75254558185105" />
+      <entry key="H1" value="280.06924771853903" />
+      <entry key="H2" value="480.3036025370093" />
+      <entry key="H4" value="764.2973049630344" />
+      <entry key="D1" value="1320.4459011144177" />
+      <entry key="W1" value="1474.0207498723012" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.318116863544664E-98" />
-      <entry key="S2" value="3.901969151407902E-25" />
-      <entry key="S5" value="1.723905807161074E-10" />
-      <entry key="S10" value="1.3129759354843856E-5" />
-      <entry key="S30" value="0.023591762528946212" />
-      <entry key="S60" value="0.15427753033269023" />
-      <entry key="M2" value="0.4219843180207285" />
-      <entry key="M5" value="1.032352018169594" />
-      <entry key="M10" value="1.6803948533878652" />
-      <entry key="M15" value="2.1925657727970904" />
-      <entry key="M30" value="4.177541154980747" />
-      <entry key="H1" value="9.354092167984746" />
-      <entry key="H2" value="19.0075824954579" />
-      <entry key="H4" value="30.744778629978622" />
-      <entry key="D1" value="49.56142604419013" />
-      <entry key="W1" value="54.17847354790479" />
+      <entry key="MS500" value="5.926955918508889E-288" />
+      <entry key="S2" value="1.5602993382435399E-72" />
+      <entry key="S5" value="1.8935778713656004E-29" />
+      <entry key="S10" value="4.3515260212546255E-15" />
+      <entry key="S30" value="1.6326227003521682E-5" />
+      <entry key="S60" value="0.004056278054799679" />
+      <entry key="M2" value="0.0691298162761015" />
+      <entry key="M5" value="0.5810239464883886" />
+      <entry key="M10" value="1.6198398051425633" />
+      <entry key="M15" value="2.5620357984053865" />
+      <entry key="M30" value="5.11455759925699" />
+      <entry key="H1" value="10.113747024984686" />
+      <entry key="H2" value="19.97349941367087" />
+      <entry key="H4" value="34.40577911482811" />
+      <entry key="D1" value="62.75293076616217" />
+      <entry key="W1" value="70.57516465978335" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8293195458144417" />
-      <entry key="MS500" value="0.963261894020148" />
-      <entry key="S2" value="0.9906861581012825" />
-      <entry key="S5" value="0.9962640016357803" />
-      <entry key="S10" value="0.9981424917899341" />
-      <entry key="S30" value="1.0414254123764757" />
-      <entry key="S60" value="1.5635654997737698" />
-      <entry key="M2" value="4.234212182377963" />
-      <entry key="M5" value="14.830457306539687" />
-      <entry key="M10" value="29.212878317158246" />
-      <entry key="M15" value="43.36044111969" />
-      <entry key="M30" value="92.12534708603661" />
-      <entry key="H1" value="198.49985274651272" />
-      <entry key="H2" value="392.9882677276196" />
-      <entry key="H4" value="633.0001695094813" />
-      <entry key="D1" value="1021.4008846045072" />
-      <entry key="W1" value="1116.986334832804" />
+      <entry key="MS100" value="0.7526233737055336" />
+      <entry key="MS500" value="0.944843797866465" />
+      <entry key="S2" value="1.1226294204081153" />
+      <entry key="S5" value="1.751770351420146" />
+      <entry key="S10" value="2.8005591825621075" />
+      <entry key="S30" value="7.351000726904007" />
+      <entry key="S60" value="12.943704270909942" />
+      <entry key="M2" value="19.74750457683416" />
+      <entry key="M5" value="35.57348090975356" />
+      <entry key="M10" value="64.56736070990304" />
+      <entry key="M15" value="93.4602540627094" />
+      <entry key="M30" value="168.78058269896937" />
+      <entry key="H1" value="290.10954942158133" />
+      <entry key="H2" value="500.214610923045" />
+      <entry key="H4" value="798.6542181002154" />
+      <entry key="D1" value="1383.1851311840328" />
+      <entry key="W1" value="1544.5937418531992" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,6 +98,7 @@
   "keyToString": {
     "Python.AR.executor": "Run",
     "Python.BMS.executor": "Run",
+    "Python.PPP.executor": "Run",
     "Python.arbitrary_arg.executor": "Run",
     "Python.atm_m.executor": "Run",
     "Python.calculatror_function_referrencing.executor": "Run",
@@ -105,6 +108,8 @@
     "Python.flipkart_list_items.executor": "Run",
     "Python.funct.executor": "Run",
     "Python.immutale_and_mm.executor": "Run",
+    "Python.l_1.executor": "Run",
+    "Python.prac.executor": "Run",
     "Python.problem.executor": "Run",
     "Python.shallow_c.executor": "Run",
     "Python.zomato_list_of_stroing_items.executor": "Run",
@@ -121,6 +126,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -160,7 +166,13 @@
       <workItem from="1783588424595" duration="4280000" />
       <workItem from="1783674609565" duration="3526000" />
       <workItem from="1783761669975" duration="1757000" />
-      <workItem from="1783935306776" duration="1507000" />
+      <workItem from="1783935306776" duration="2735000" />
+      <workItem from="1784020746510" duration="3011000" />
+      <workItem from="1784106475357" duration="151000" />
+      <workItem from="1784107756727" duration="110000" />
+      <workItem from="1784194973303" duration="2703000" />
+      <workItem from="1784280865489" duration="577000" />
+      <workItem from="1784282506760" duration="1562000" />
     </task>
     <servers />
   </component>
@@ -180,16 +192,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$arbitrary_arg.coverage" NAME="arbitrary_arg Coverage Results" MODIFIED="1783592507375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$l_1.coverage" NAME="l_1 Coverage Results" MODIFIED="1784284020130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$prac.coverage" NAME="prac Coverage Results" MODIFIED="1784281192561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$dev.coverage" NAME="dev Coverage Results" MODIFIED="1783936637356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$atm_m.coverage" NAME="atm_m Coverage Results" MODIFIED="1783330011985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1782803634389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_types" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$default_arg.coverage" NAME="default_arg Coverage Results" MODIFIED="1783503799220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
-    <SUITE FILE_PATH="coverage/PYTHON_BASICS$calculatror_function_referrencing.coverage" NAME="calculatror_function_referrencing Coverage Results" MODIFIED="1783937110912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$calculatror_function_referrencing.coverage" NAME="calculatror_function_referrencing Coverage Results" MODIFIED="1783937721165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$shallow_c.coverage" NAME="shallow_c Coverage Results" MODIFIED="1782992631265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$zomato_list_of_stroing_items.coverage" NAME="zomato_list_of_stroing_items Coverage Results" MODIFIED="1782819629868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_types" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$immutale_and_mm.coverage" NAME="immutale_and_mm Coverage Results" MODIFIED="1782803830441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_types" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$funct.coverage" NAME="funct Coverage Results" MODIFIED="1783158680765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$flipkart_list_items.coverage" NAME="flipkart_list_items Coverage Results" MODIFIED="1782820468669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_types" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$PPP.coverage" NAME="PPP Coverage Results" MODIFIED="1784023804543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$problem.coverage" NAME="problem Coverage Results" MODIFIED="1783763814369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$BMS.coverage" NAME="BMS Coverage Results" MODIFIED="1782994274269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$AR.coverage" NAME="AR Coverage Results" MODIFIED="1783333341484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
