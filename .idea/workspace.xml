@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fafa32a0-ea11-4276-8773-ac0d57a8436d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamda/l_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/PPP.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/PPP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/calculatror_function_referrencing.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/calculatror_function_referrencing.py" afterDir="false" />
-    </list>
+    <list default="true" id="fafa32a0-ea11-4276-8773-ac0d57a8436d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +166,7 @@
       <workItem from="1784107756727" duration="110000" />
       <workItem from="1784194973303" duration="2703000" />
       <workItem from="1784280865489" duration="577000" />
-      <workItem from="1784282506760" duration="1562000" />
+      <workItem from="1784282506760" duration="1589000" />
     </task>
     <servers />
   </component>
