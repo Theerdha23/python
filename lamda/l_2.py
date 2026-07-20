@@ -27,3 +27,8 @@ m_4 = list(filter(lambda x:x%4==0,lis))
 print(m_4)
 m_4.sort(key=lambda x:x)
 print(m_4)
+
+from functools import reduce
+add=reduce(lambda x,y:x*y,[1.1,2,3,4,5,6,7,8,9,10])
+print(add)
+
