@@ -1,3 +1,4 @@
+from pandas.tseries.frequencies import key
 
 print(list(map(lambda x:x*3,list(filter(lambda x:x%2==0,[1,2,3,4,5,6,7,8,9,10])))))
 
@@ -5,7 +6,7 @@ print(list(map(lambda x:x**2,list(filter(lambda x:x>20,[15,16,20,22,23,24,25,26,
 
 print(list(map(lambda x:x.upper(),list(filter(lambda x:len(x)>4,['hi','theerdha','you','rrrrr'])))))
 
-print(list(map(lambda x:x+5,list(filter(lambda x:x%5==0,[1,2,3,4,5,6,7,8,9,10])))))
+print(list(map(lambda x:x+10,list(filter(lambda x:x%5==0,[1,2,3,4,5,6,7,8,9,10])))))
 
 print(list(map(lambda x:x+5,list(filter(lambda x:x>40,[20,30,40,50,60,70,80,90])))))
 
@@ -21,3 +22,6 @@ print((reduce(lambda x,y:x+y,[1,2,3,4,5,6,7,8,9,10]))/len([1,2,3,4,5,6,7,8,9,10]
 
 
 print(list(map(lambda x:x-x*0.1,list(filter(lambda x:x>500,[400,800,9000,666,66,])))))
+
+
+print(list(sorted([{'name':"alice",'marks':90},{'name':"a",'marks':99}],key=lambda x:len(x['name']))))

@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fafa32a0-ea11-4276-8773-ac0d57a8436d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PYTHON BASICS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_dec/dec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamda/p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamda/p22_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamda/p_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lamda/pipeline_l3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lamda/pipeline_l3.py" afterDir="false" />
     </list>
@@ -26,60 +32,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000001941937358" />
-      <entry key="S2" value="1.020992280594515" />
-      <entry key="S5" value="1.2148012355617457" />
-      <entry key="S10" value="1.5311456058529873" />
-      <entry key="S30" value="2.995760023837316" />
-      <entry key="S60" value="5.102323792432339" />
-      <entry key="M2" value="8.595973287317033" />
-      <entry key="M5" value="21.896946196324173" />
-      <entry key="M10" value="44.533549207418815" />
-      <entry key="M15" value="65.5829988747617" />
-      <entry key="M30" value="131.16638688489994" />
-      <entry key="H1" value="259.3621118466247" />
-      <entry key="H2" value="482.52253031456445" />
-      <entry key="H4" value="804.8658189708847" />
-      <entry key="D1" value="1480.7506939698414" />
-      <entry key="W1" value="1676.8766372793193" />
+      <entry key="MS500" value="1.0000000003040441" />
+      <entry key="S2" value="1.0089403008926843" />
+      <entry key="S5" value="1.3397319751317898" />
+      <entry key="S10" value="2.16523896483533" />
+      <entry key="S30" value="4.411145858994656" />
+      <entry key="S60" value="7.953271900097673" />
+      <entry key="M2" value="14.136249213613661" />
+      <entry key="M5" value="27.824400609955084" />
+      <entry key="M10" value="43.56419744996132" />
+      <entry key="M15" value="57.25114740858119" />
+      <entry key="M30" value="104.90910881118782" />
+      <entry key="H1" value="224.6286301497805" />
+      <entry key="H2" value="470.98949497245553" />
+      <entry key="H4" value="865.0440281041722" />
+      <entry key="D1" value="1827.8582003758609" />
+      <entry key="W1" value="2138.4177724162773" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="5.779073966662191E-100" />
-      <entry key="S2" value="1.6541460043518644E-25" />
-      <entry key="S5" value="1.5956524921043355E-10" />
-      <entry key="S10" value="1.7272064461438896E-5" />
-      <entry key="S30" value="0.040706981708746974" />
-      <entry key="S60" value="0.28594029593728637" />
-      <entry key="M2" value="0.8023538121390175" />
-      <entry key="M5" value="1.9125995330301975" />
-      <entry key="M10" value="3.110586946326738" />
-      <entry key="M15" value="4.128751923419148" />
-      <entry key="M30" value="7.06222950058212" />
-      <entry key="H1" value="12.548276285499265" />
-      <entry key="H2" value="22.833783129687145" />
-      <entry key="H4" value="38.56503631239722" />
-      <entry key="D1" value="72.32399553327647" />
-      <entry key="W1" value="82.18259899741554" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.5671034767832016E-89" />
+      <entry key="S5" value="3.0063467450491075E-36" />
+      <entry key="S10" value="1.7338825954939826E-18" />
+      <entry key="S30" value="1.2098336946452789E-6" />
+      <entry key="S60" value="0.0011881182264469779" />
+      <entry key="M2" value="0.04270605498409369" />
+      <entry key="M5" value="0.4286089462993011" />
+      <entry key="M10" value="1.1895265397679278" />
+      <entry key="M15" value="2.0251281546538347" />
+      <entry key="M30" value="5.052896675805724" />
+      <entry key="H1" value="12.008454707045537" />
+      <entry key="H2" value="24.972075392095235" />
+      <entry key="H4" value="44.938151646388704" />
+      <entry key="D1" value="93.40910962371845" />
+      <entry key="W1" value="109.04905020302391" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.1224347653763966E-7" />
-      <entry key="MS500" value="0.052848284177170815" />
-      <entry key="S2" value="0.4907504761565194" />
-      <entry key="S5" value="0.9125158777440383" />
-      <entry key="S10" value="1.3251162929059095" />
-      <entry key="S30" value="2.8664606997591595" />
-      <entry key="S60" value="5.237872710614777" />
-      <entry key="M2" value="9.281210247014618" />
-      <entry key="M5" value="23.718228678926206" />
-      <entry key="M10" value="47.56347835671995" />
-      <entry key="M15" value="69.63481416420294" />
-      <entry key="M30" value="138.15280172606094" />
-      <entry key="H1" value="271.8368379336496" />
-      <entry key="H2" value="505.2897207956465" />
-      <entry key="H4" value="843.3769856237518" />
-      <entry key="D1" value="1553.0588151563582" />
-      <entry key="W1" value="1759.0566884651194" />
+      <entry key="MS100" value="2.502095991330391E-12" />
+      <entry key="MS500" value="0.004782564328497854" />
+      <entry key="S2" value="0.2714567278455985" />
+      <entry key="S5" value="0.9158297790335996" />
+      <entry key="S10" value="1.911631722896861" />
+      <entry key="S30" value="4.293358050057913" />
+      <entry key="S60" value="7.857035388664207" />
+      <entry key="M2" value="14.091250236748314" />
+      <entry key="M5" value="28.180577647781178" />
+      <entry key="M10" value="44.69460306331549" />
+      <entry key="M15" value="59.221774726879815" />
+      <entry key="M30" value="109.90609858115738" />
+      <entry key="H1" value="236.57344667943846" />
+      <entry key="H2" value="495.89459002356483" />
+      <entry key="H4" value="909.9220256706147" />
+      <entry key="D1" value="1921.2470131234825" />
+      <entry key="W1" value="2247.4634627946652" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,45 +97,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BMS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PPP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arbitrary_arg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atm_m.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculatror_function_referrencing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.default_arg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dev.executor&quot;: &quot;Run&quot;,
-    &quot;Python.flipkart_list_items.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funct.executor&quot;: &quot;Run&quot;,
-    &quot;Python.immutale_and_mm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.l_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.l_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pipeline_l3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shallow_c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zomato_list_of_stroing_items.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/theer/OneDrive/Desktop/PYTHON BASICS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AR.executor": "Run",
+    "Python.BMS.executor": "Run",
+    "Python.PPP.executor": "Run",
+    "Python.arbitrary_arg.executor": "Run",
+    "Python.atm_m.executor": "Run",
+    "Python.calculatror_function_referrencing.executor": "Run",
+    "Python.data_types.executor": "Run",
+    "Python.dec.executor": "Run",
+    "Python.default_arg.executor": "Run",
+    "Python.dev.executor": "Run",
+    "Python.flipkart_list_items.executor": "Run",
+    "Python.funct.executor": "Run",
+    "Python.immutale_and_mm.executor": "Run",
+    "Python.l_1.executor": "Run",
+    "Python.l_2.executor": "Run",
+    "Python.p.executor": "Run",
+    "Python.p22_1.executor": "Run",
+    "Python.p_3.executor": "Run",
+    "Python.pipeline_l3.executor": "Run",
+    "Python.prac.executor": "Run",
+    "Python.problem.executor": "Run",
+    "Python.shallow_c.executor": "Run",
+    "Python.zomato_list_of_stroing_items.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/theer/OneDrive/Desktop/PYTHON BASICS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\theer\OneDrive\Desktop\PYTHON BASICS\data_types" />
@@ -174,7 +185,21 @@
       <workItem from="1784282506760" duration="1589000" />
       <workItem from="1784380334043" duration="1650000" />
       <workItem from="1784539555170" duration="3211000" />
-      <workItem from="1784556022083" duration="994000" />
+      <workItem from="1784556022083" duration="1226000" />
+      <workItem from="1784627095443" duration="1901000" />
+      <workItem from="1784629130882" duration="167000" />
+      <workItem from="1784641666321" duration="387000" />
+      <workItem from="1784646493554" duration="301000" />
+      <workItem from="1784649000104" duration="1892000" />
+      <workItem from="1784711788855" duration="2628000" />
+      <workItem from="1784737724424" duration="315000" />
+      <workItem from="1784972525961" duration="1194000" />
+      <workItem from="1785144087073" duration="300000" />
+      <workItem from="1785145471639" duration="1235000" />
+      <workItem from="1785215781532" duration="5108000" />
+      <workItem from="1785222632788" duration="191000" />
+      <workItem from="1785229904239" duration="35000" />
+      <workItem from="1785229966765" duration="44000" />
     </task>
     <servers />
   </component>
@@ -194,6 +219,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$arbitrary_arg.coverage" NAME="arbitrary_arg Coverage Results" MODIFIED="1783592507375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$p.coverage" NAME="p Coverage Results" MODIFIED="1785218787813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$p_3.coverage" NAME="p_3 Coverage Results" MODIFIED="1784738027088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$l_1.coverage" NAME="l_1 Coverage Results" MODIFIED="1784284020130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$prac.coverage" NAME="prac Coverage Results" MODIFIED="1784281192561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$dev.coverage" NAME="dev Coverage Results" MODIFIED="1783936637356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
@@ -207,10 +234,11 @@
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$l_2.coverage" NAME="l_2 Coverage Results" MODIFIED="1784541463350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$funct.coverage" NAME="funct Coverage Results" MODIFIED="1783158680765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$flipkart_list_items.coverage" NAME="flipkart_list_items Coverage Results" MODIFIED="1782820468669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_types" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$p22_1.coverage" NAME="p22_1 Coverage Results" MODIFIED="1785219897275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$PPP.coverage" NAME="PPP Coverage Results" MODIFIED="1784023804543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$problem.coverage" NAME="problem Coverage Results" MODIFIED="1783763814369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$BMS.coverage" NAME="BMS Coverage Results" MODIFIED="1782994274269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PYTHON_BASICS$pipeline_l3.coverage" NAME="pipeline_l3 Coverage Results" MODIFIED="1784556897833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
+    <SUITE FILE_PATH="coverage/PYTHON_BASICS$pipeline_l3.coverage" NAME="pipeline_l3 Coverage Results" MODIFIED="1784629274704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lamda" />
     <SUITE FILE_PATH="coverage/PYTHON_BASICS$AR.coverage" NAME="AR Coverage Results" MODIFIED="1783333341484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
   </component>
 </project>
