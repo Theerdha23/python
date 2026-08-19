@@ -82,3 +82,32 @@ def function_process_order(price,discount_function):
 
 print(function_process_order(100,discount_10))
 print(function_process_order(100,discount_20))
+
+
+# n=int(input())
+# if n<=0:
+#     print("Invalid Input")
+# else:
+#     for i in range(1,n+1):
+#         for j in range(1,i):
+#             if j+1>10:
+#                 print("   ",end="")
+#             else:
+#                 print(" ",end=" ")
+#         for j in range(i,n+1):
+#             print(j,end=" ")
+#         print()
+
+
+# elif user_name != user:
+# if uns <= 3:
+#     login(input("enter username again"), passw)
+#     uns += 1
+# else:
+#     print("no ")
+#     return
+# else:
+# if uns <= 3:
+#     login(user, input("enter password again"))
+#     uns += 1
+# na = uns + sa
