@@ -22,39 +22,39 @@ for i in order_details:
 # #Zomato-like Food Ordering System (Dynamic)
 #
 # # Initialize user details
-# user_name = input("Enter your name: ")
-# order_id = int(input("Enter your order ID: "))
-# location = input("Enter your delivery location: ")
-#
-# # Ordered food items (list)
-# order_items = []
-# while True:
-#     item = input("Add a food item (or type 'done' to finish): ")
-#     if item.lower() == "done":
-#         break
-#     order_items.append(item)
-#
-# # Restaurants (set ensures no duplicates)
-# restaurants = set()
-# while True:
-#     rest = input("Add a restaurant (or type 'done' to finish): ")
-#     if rest.lower() == "done":
-#         break
-#     restaurants.add(rest)
-#
-# # Order details dictionary
-# order_details = {
-#     "user_name": user_name,
-#     "order_id": order_id,
-#     "location": location,
-#     "items": order_items,
-#     "restaurants": restaurants,
-#     "total_bill": float(input("Enter total bill amount: ")),
-#     "order_status": "Confirmed"
-# }
-#
-# # Display order details
-# print("\n--- Order Details ---")
-# for key, value in order_details.items():
-#     print(key, ":", value)
-#
+user_name = input("Enter your name: ")
+order_id = int(input("Enter your order ID: "))
+location = input("Enter your delivery location: ")
+
+# Ordered food items (list)
+order_items = []
+while True:
+    item = input("Add a food item (or type 'done' to finish): ")
+    if item.lower() == "done":
+        break
+    order_items.append(item)
+
+# Restaurants (set ensures no duplicates)
+restaurants = set()
+while True:
+    rest = input("Add a restaurant (or type 'done' to finish): ")
+    if rest.lower() == "done":
+        break
+    restaurants.add(rest)
+
+# Order details dictionary
+order_details = {
+    "user_name": user_name,
+    "order_id": order_id,
+    "location": location,
+    "items": order_items,
+    "restaurants": restaurants,
+    "total_bill": float(input("Enter total bill amount: ")),
+    "order_status": "Confirmed"
+}
+
+# Display order details
+print("\n--- Order Details ---")
+for key, value in order_details.items():
+    print(key, ":", value)
+
