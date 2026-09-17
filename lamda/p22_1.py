@@ -1,7 +1,7 @@
-# from functools import reduce
-#
-# # List of employee salaries
-# salaries = [25000, 32000, 45000, 28000, 50000, 35000,2]
+from functools import reduce
+
+# List of employee salaries
+salaries = [25000, 32000, 45000, 28000, 50000, 35000,2]
 #
 # # Step 1: Filter salaries greater than ₹30,000
 # filtered_salaries = list(filter(lambda x: x > 30000, salaries))

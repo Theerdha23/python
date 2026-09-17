@@ -1,53 +1,53 @@
 # #postional args
-# def  add(*args):
-#     print(args)
-#     sum = 0
-#     for arg in args:
-#         sum += arg
-#
-#     print(sum)
-#
-# add(1,2,3)
-# add(20,11)
-#
-# #keyword args
-# def order_details(**kwargs):
-#     print(kwargs)
-# order_details(age=12,name='guest')
-#
-#
+def  add(*args):
+    print(args)
+    sum = 0
+    for arg in args:
+        sum += arg
 
-# def register_details(**kwargs):
-#
-#     print(("-------register details-------"))
-#     for k,v in kwargs.items():
-#         print(f'{k} : {v}')
-#
-# register_details(paitent_name='rahul',age=22, symptoms={'ttt'},doctor_assigned='vijay')
-# register_details(paitent_name=input('enter your name:'),age=int(input('enter your age:')), symptoms=input('enter your symptoms:'),doctor_assigned='vijay')
+    print(sum)
+
+add(1,2,3)
+add(20,11)
+
+#keyword args
+def order_details(**kwargs):
+    print(kwargs)
+order_details(age=12,name='guest')
 
 
-# def print_arg(a,b='theer',*args,**kwargs):
-#     print(a)
-#     print(b)
-#     print(args)
-#     print(kwargs)
-#
-# print_arg('w','ree','rerer','rahul',key='rr',you='love')
-#
-# def mul_all(*args):
-#     mul = 1
-#     for arg in args:
-#         mul *= arg
-#     print(mul)
-#
-# mul_all(1,2,3,4,5)
 
-# def dispaly_tags(**kwargs):
-#     for key, value in kwargs.items():
-#         print(f"{key}: {value}")
-#
-# dispaly_tags(name="name", value="value",age="age")
+def register_details(**kwargs):
+
+    print(("-------register details-------"))
+    for k,v in kwargs.items():
+        print(f'{k} : {v}')
+
+register_details(paitent_name='rahul',age=22, symptoms={'ttt'},doctor_assigned='vijay')
+register_details(paitent_name=input('enter your name:'),age=int(input('enter your age:')), symptoms=input('enter your symptoms:'),doctor_assigned='vijay')
+
+
+def print_arg(a,b='theer',*args,**kwargs):
+    print(a)
+    print(b)
+    print(args)
+    print(kwargs)
+
+print_arg('w','ree','rerer','rahul',key='rr',you='love')
+
+def mul_all(*args):
+    mul = 1
+    for arg in args:
+        mul *= arg
+    print(mul)
+
+mul_all(1,2,3,4,5)
+
+def dispaly_tags(**kwargs):
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
+
+dispaly_tags(name="name", value="value",age="age")
 
 '''crate a py application to develop a hospital billing system crate fun like calculate bill with arbitarty postional
 arg called charges crate another function apply insurance with arbitary keyword args and another add taxes with
